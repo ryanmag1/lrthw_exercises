@@ -16,7 +16,6 @@ lrthw_exercises (11379624_chapter_0_master) $
  *  Chronic (Rubygem) https://github.com/mojombo/chronic
  
 ##### Find two other relative links and add those to the Readme.md as well.
-^^^ Little vague :)
 
 Git branch management: https://git-scm.com/book/en/v2/Git-Branching-Branch-Management
 Git checkout tutorial: https://git-scm.com/docs/git-checkout
