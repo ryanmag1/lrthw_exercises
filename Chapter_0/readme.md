@@ -11,8 +11,8 @@ lrthw_exercises (11379624_chapter_0_master) $
  
 ##### Provide a link in your Readme.md that links to the documentation for the following classes:
  
- *  Array http://www.tutorialspoint.com/ruby/ruby_arrays.htm
- *  Hash http://www.tutorialspoint.com/ruby/ruby_hashes.htm
+ *  Array http://ruby-doc.org/core-2.2.4/Array.html
+ *  Hash http://ruby-doc.org/core-2.2.4/Hash.html
  *  Chronic (Rubygem) https://github.com/mojombo/chronic
  
 ##### Find two other relative links and add those to the Readme.md as well.
