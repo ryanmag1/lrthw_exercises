@@ -12,4 +12,5 @@ StringLiterals:
   Enabled: false
 ```
 
-
+###### What not to do about the string literals rubocop error
+I learned you should not disable the stringliterals cop to get around the error...
