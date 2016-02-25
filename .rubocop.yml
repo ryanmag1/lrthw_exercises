@@ -1,5 +1,3 @@
 AllCops:
   Exclude:
     - 'Guardfile'
-StringLiterals:
-  Enabled: false
