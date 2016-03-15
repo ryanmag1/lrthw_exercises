@@ -11,7 +11,7 @@ puts "Now I will count the eggs:"
 
 # adds, subtracts, then adds modulus and subtracts a division
 
-puts 3 + 2 + 1 - 5+ 4 % 2 - 1 / 4 + 6
+puts 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6
 
 # asks if 5 is greater than negative 2
 puts "Is it true that 3 + 2 < 5 - 7?"
